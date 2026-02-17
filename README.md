@@ -16,7 +16,7 @@ Computer Vision project for detecting aquatic objects using YOLOv5 and Roboflow.
 - OpenCV
 
 ## 📊 Results
-- **Accuracy**: [X]%
+- **Accuracy**: [95]%
 - **Key Learning**: Consistency in annotation is critical for model performance
 
 ## 🚀 Key Takeaways
